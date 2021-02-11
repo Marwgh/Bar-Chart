@@ -1,0 +1,15 @@
+.box {
+    width: 2vw;
+    height: 32vw;
+    background-color: hotpink;
+    margin-right: 0.5vw;
+    margin-top: auto;
+}
+
+#theMainContainer {
+    width: 80vw;
+    height: 40vw;
+    display: flex;
+    flex-direction: row;
+    
+}
